@@ -37,8 +37,6 @@ The workflow quantifies alignment, identifies curriculum gaps, highlights market
 
 ## Workflow
 
-Based on the 6-step evaluation flow diagram (PDF page 3) 
-
 | Stage                        | Description                                                     |
 | ---------------------------- | --------------------------------------------------------------- |
 | **Data Collection**          | Scraped MSBA curriculum webpages + Indeed job postings          |
