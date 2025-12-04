@@ -133,14 +133,3 @@ Python, SQL, R, statistics, regression, optimization, ML, visualization, causal 
 * Curriculum transparency plays a major role (MIT example)
 
 ---
-
-## Project Files
-
-| Resource                              | Link                         |
-| ------------------------------------- | ---------------------------- |
-| **Project Presentation**              | *(insert PDF/PPT link here)* |
-| **Full Codebase (Jupyter Notebooks)** | *(insert GitHub link here)*  |
-| **Data Collection Notebook**          | *(placeholder)*              |
-| **Skill Extraction Notebook**         | *(placeholder)*              |
-| **Topic Modeling Notebook**           | *(placeholder)*              |
-| **Visualization / Report Notebook**   | *(placeholder)*              |
